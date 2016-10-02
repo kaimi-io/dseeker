@@ -1,3 +1,8 @@
+Domain Seeker
+=====================
+
+# Usage
+```bat
 usage: dseeker.py [-h] -d DOMAINS -i IPS [--https] [--codes CODES]
                   [--separator SEPARATOR] [--include INCLUDE]
                   [--exclude EXCLUDE] [--agent AGENT] [--http-port HTTP_PORT]
@@ -29,3 +34,6 @@ optional arguments:
                         HTTPS port (default: 443)
   --timeout TIMEOUT     HTTP-request timeout (default: 5)
   --threads THREADS     Number of threads (default: 2)
+```
+
+For further assistance don't hesitate to ask for help in GitHub issues or on the blog: https://kaimi.io
