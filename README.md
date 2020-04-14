@@ -1,5 +1,6 @@
 Domain Seeker
 =====================
+[![Python 3](https://img.shields.io/badge/python-3%20%2B-green.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://raw.githubusercontent.com/kaimi-io/dseeker/master/LICENSE)
 
 # Usage
 ```bat
