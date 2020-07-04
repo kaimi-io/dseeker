@@ -2,6 +2,9 @@ Domain Seeker
 =====================
 [![Python 3](https://img.shields.io/badge/python-3%20%2B-green.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://raw.githubusercontent.com/kaimi-io/dseeker/master/LICENSE)
 
+[![Telegram](https://img.shields.io/badge/Telegram--lightgrey?logo=telegram&style=social)](https://t.me/kaimi_io)
+[![Twitter](https://img.shields.io/twitter/follow/kaimi_io?style=social)](https://twitter.com/kaimi_io)
+
 Simple script for domain discovery within specified IP ranges.
 
 ## Contents
