@@ -26,9 +26,9 @@ Simple script for domain discovery within specified IP ranges.
 * Python >= 3
 
 ### Python modules
-* coloredlogs==14.0
-* urllib3==1.25.8
-* netaddr==0.7.19
+* coloredlogs
+* urllib3
+* netaddr
 
 ## Installation
 ### Ubuntu / Debian
